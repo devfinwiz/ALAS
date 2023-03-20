@@ -21,6 +21,7 @@ This is an advanced automated library software built in Java Netbeans to reduce 
 
 ![Blank diagram - Page 2](https://user-images.githubusercontent.com/78873223/160277769-92241511-1501-4f97-81bc-a7b5041fdcf5.png)
 
+![](https://i.imgur.com/waxVImv.png) 
 
 ## Librarian Dashboard:
 ![libdash](https://user-images.githubusercontent.com/78873223/160278744-e5655f3d-e071-4f78-8ad6-050649d32ee7.PNG)
